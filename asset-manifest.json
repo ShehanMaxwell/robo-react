@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robo-react/static/css/main.735550e9.chunk.css",
+    "main.js": "/robo-react/static/js/main.6d6efa2c.chunk.js",
+    "main.js.map": "/robo-react/static/js/main.6d6efa2c.chunk.js.map",
+    "runtime-main.js": "/robo-react/static/js/runtime-main.c30e244a.js",
+    "runtime-main.js.map": "/robo-react/static/js/runtime-main.c30e244a.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robo-react/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "/robo-react/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "/robo-react/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "/robo-react/index.html",
+    "precache-manifest.c6b1303db849ceb8856199a10f660b4f.js": "/robo-react/precache-manifest.c6b1303db849ceb8856199a10f660b4f.js",
+    "service-worker.js": "/robo-react/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robo-react/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.735550e9.chunk.css.map": "/robo-react/static/css/main.735550e9.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/robo-react/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robo-react/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c30e244a.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js",
+    "static/css/main.735550e9.chunk.css",
+    "static/js/main.6d6efa2c.chunk.js"
+  ]
+}
